@@ -1,0 +1,5 @@
+to check the version:   python3 --version
+in MAC and linux : python3 is used
+in window : python is used
+to run the file by terminal command:    python3 <file_name>
+
